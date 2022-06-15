@@ -1,0 +1,16 @@
+{
+  "name": "DmtrPixels",
+  "keywords": "LED, pixels",
+  "description": "Abstraction layer for FastLED/Adafruit_Neopixel",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dimitre/DmtrPixels.git"
+  },
+  "version": "0.1",
+  "exclude": [
+    "*.png",
+    "*.zip"
+  ],
+  "frameworks": "arduino",
+  "platforms": "*"
+}
